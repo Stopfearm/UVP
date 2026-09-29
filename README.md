@@ -1,2 +1,1 @@
-# UVP
-This repository was created for educational purposes.
+Hi, I'm a third-year student, my name is Slava.
